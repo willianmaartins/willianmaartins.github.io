@@ -1,0 +1,35 @@
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: medium;
+}
+
+body {
+    background-color: black;
+}
+
+.facilidade {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+.empatia {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.organizacao {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+.comprometimento {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;    
+}
